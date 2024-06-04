@@ -1,0 +1,11 @@
+{
+  "name": "nano-dht",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "mistakia <1823355+mistakia@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@trashman/ed25519-blake2b": "^0.0.6",
+    "bittorrent-dht": "^11.0.6"
+  }
+}
